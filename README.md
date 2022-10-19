@@ -9,4 +9,4 @@ Goal: to integrate  International Human Rights frameworks with current concepts 
 
 
 
-[aiequalitytoolbox.github.io](http://aiequalitytoolbox.github.io/)
+[aiequalitytoolbox.com/](https://aiequalitytoolbox.com/)
